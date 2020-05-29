@@ -41,8 +41,8 @@ Matplotlib
 7. Model Evaluation 
 
     Confusion Matrix: shows for each true class, how frequent a given predicted outcome is. 
-                      You can read in detail about confusion matrix and terms associated with it 
-                      https://medium.com/thalus-ai/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b
+                      You can read in detail about confusion matrix and terms associated with it [here](https://medium.com/thalus-ai/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)
+                     
                       
     ROC Curve: Receiver operating characteristics. A roc-curve works with uncertainty outputs of a classifier, 
                 say the "cut off probability" for classification. Instead of making a cut-off at zero and 
